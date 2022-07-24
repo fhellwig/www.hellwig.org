@@ -1,5 +1,5 @@
 {
-  "meta": { "theme": "caffeine" },
+  "meta": { "theme": "elegant" },
   "basics": {
     "name": "Frank Hellwig",
     "picture": "https://www.hellwig.org/static/frank-hellwig.profile.jpg",
@@ -7,7 +7,7 @@
     "email": "frank@hellwig.org",
     "phone": "(571) 207-6308",
     "url": "https://www.hellwig.org",
-    "summary": "See website",
+    "summary": "Solution Architect and business growth professional creating innovative solutions to win contracts and exceed our customers’ expectations. I am dedicated to advancing agile methodologies, cloud technologies, and software engineering in solving challenging problems and delivering solutions. I have been in the technology field for over three decades and have operated at all levels – from designing and delivering software to building a company and winning contracts for my current employer. Recent wins: DEA Bluestone ($875M) and EPA ESSET ($550M). I combine years of hard-won knowledge and intense customer engagements with my ability to clearly communicate these lessons and turn them into solutions that win business. Proposals I have authored show our customers that we understand their problems and have a vision to do it better than the last team. I speak well, write well, and deliver deeply technical issues with clarity.",
     "location": {
       "address": "3071 Joy Ct",
       "city": "Warrenton",
@@ -19,31 +19,302 @@
         "network": "GitHub",
         "username": "fhellwig",
         "url": "https://github.com/fhellwig"
+      },
+      {
+        "network": "LinkedIn",
+        "username": "fghellwig",
+        "url": "https://www.linkedin.com/in/fghellwig/"
       }
     ]
   },
+  "publications": [
+    {
+      "name": "Cloud Migrations - Lessons Learned",
+      "publisher": "ACT-IAC",
+      "releaseDate": "2018-01-24",
+      "url": "https://www.hellwig.org/pubs?doc=cloud-migrations-lessons-learned.md",
+      "summary": "Representative case studies from Federal Government agencies and organizations detailing their mission objectives and lessons learned as they moved all or part of their infrastructure and computing needs into hosted and managed cloud service providers"
+    },
+    {
+      "name": "Security Considerations for DoD Cloud Migrations",
+      "publisher": "Buchanan & Edwards",
+      "releaseDate": "2017-10-02",
+      "url": "https://www.hellwig.org/pubs?doc=security-considerations-for-dod-cloud-migrations.md",
+      "summary": "Security considerations for migrating U.S. Department of Defense (DoD) systems into commercial or government-specific cloud environments"
+    },
+    {
+      "name": "Five Reasons to Move Your Line-of-Business Applications to the Cloud",
+      "publisher": "LinkedIn",
+      "releaseDate": "2016-12-01",
+      "url": "https://www.hellwig.org/pubs?doc=five-reasons-to-move-your-lob-apps-to-the-cloud.md",
+      "summary": "Five major reasons why you should move your organization’s line-of-business applications to a cloud-based IT infrastructure"
+    },
+    {
+      "name": "Implementing Associations",
+      "publisher": "Dr. Dobb's Journal",
+      "releaseDate": "1998-06-01",
+      "url": "https://www.hellwig.org/pubs?doc=implementing-associations.md",
+      "summary": "Maintaining pointer integrity using associations to dynamically create an object model and be assured of valid references throughout a program"
+    },
+    {
+      "name": "A Secure SDS Software Library",
+      "publisher": "National Computer Security Center",
+      "releaseDate": "1988-10-17",
+      "url": "https://www.hellwig.org/pubs?doc=a-secure-sds-software-library.md",
+      "summary": "Demonstrates the need for a secure Strategic Defense System Software Library and the means by which it can be achieved"
+    }
+  ],
+  "skills": [
+    {
+      "name": "Cloud",
+      "keywords": [
+        "Microsoft Azure",
+        "Azure Active Directory",
+        "Amazon Web Services (AWS)"
+      ]
+    },
+    {
+      "name": "Security",
+      "keywords": ["Blockchain", "Common Access Card", "PKI", "RSA", "AES"]
+    },
+    {
+      "name": "Interoperability",
+      "keywords": [
+        "REST",
+        "JSON",
+        "HTTPS",
+        "Microservices",
+        "XML",
+        "XSLT",
+        "SOAP",
+        "AJAX"
+      ]
+    },
+    {
+      "name": "Back End",
+      "keywords": [
+        "Node.js",
+        "Express",
+        "Java",
+        "Python",
+        "C",
+        "ASP.NET MVC",
+        "PHP"
+      ]
+    },
+    {
+      "name": "Back End",
+      "keywords": [
+        "Node.js",
+        "Express",
+        "Java",
+        "Python",
+        "C",
+        "ASP.NET MVC",
+        "PHP"
+      ]
+    },
+    {
+      "name": "Front End",
+      "keywords": [
+        "React",
+        "Electron",
+        "HTML5",
+        "CSS3",
+        "Vue.js",
+        "AngularJS",
+        "jQuery",
+        "JavaScript",
+        "X11"
+      ]
+    },
+    {
+      "name": "Infrastructure",
+      "keywords": ["Azure DevOps", "Git", "GitLab", "GitHub", "NPM"]
+    },
+    {
+      "name": "Identity Management",
+      "keywords": [
+        "OAuth2",
+        "Federation Authentication",
+        "Cloud Identity Management"
+      ]
+    },
+    {
+      "name": "Databases",
+      "keywords": [
+        "SQL Server",
+        "SQLite",
+        "PostgreSQL",
+        "MySQL",
+        "ER Tools",
+        "Entity Framework",
+        "JDBC"
+      ]
+    },
+    {
+      "name": "Business Development",
+      "keywords": ["Solutioning", "Graphics", "Technical Proposal Authoring"]
+    },
+    {
+      "name": "Methodologies",
+      "keywords": ["Agile", "Scrum", "Kanban", "SAFe (Certified SPC)"]
+    }
+  ],
   "work": [
     {
       "name": "GovCIO",
-      "position": "Vice President",
-      "startDate": "2020-07-18"
+      "location": "Fairfax, VA",
+      "description": "Government Information Technology",
+      "position": "Vice President, Solution Architecture",
+      "url": "https://www.govcio.com",
+      "startDate": "2020-07",
+      "summary": "Within Growth Enablement Team, I deliver innovative and workable solutions to that win business for our company. I research ways to improve our Pwin and promote innovation as the means to engage new customers and bring ideas to existing customers.",
+      "highlights": [
+        "Over the past year, I was the principal SA on bids totaling $1.6 billion TCV in single-award prime contracts for the U.S. Government"
+      ]
+    },
+    {
+      "name": "Huntington Ingalls Industries",
+      "location": "Fairfax, VA",
+      "description": "Government Information Technology",
+      "position": "Director, Technology and Innovation",
+      "url": "https://www.hii.com",
+      "startDate": "2018-09",
+      "endDate": "2020-06",
+      "summary": "Responsible for setting the technology direction and managing innovation. Managed a team of solution architects that won business and furthered the company's technical footprint. Mentorship role to identify and promulgate technology trends and products to improve current business execution and offer competitive proposal responses.",
+      "highlights": [
+        "Developed and deployed a Bid and Proposal estimation tool for B&P funding allocation",
+        "Developed and deployed an Annual Operating Plan prediction tool based on Markov modeling"
+      ]
+    },
+    {
+      "name": "Buchanan & Edwards",
+      "location": "Arlington, VA",
+      "description": "Government Information Technology",
+      "position": "Director of Engineering",
+      "url": "https://www.be.com",
+      "startDate": "2012-05",
+      "endDate": "2018-09",
+      "summary": "Corporate leadership role as a technology evangelist designing, developing, and delivering enabling cloud and on-premises platforms for the Department of Defense, Department of State, and the Department of Justice. Responsible for business development, program execution, internal research and development, corporate engineering initiatives, and technology accelerators.",
+      "highlights": [
+        "Leading technologist winning a $100M contract for the U.S. Marine Corps Recruiting Information Support System (MCRISS). Executed on the project using an Electron-based implementation.",
+        "Designed, developed, and deployed (including ATO) the first public cloud application for the U.S. Department of State",
+        "Developed and delivered the original version of the State Department’s Smart Traveler iOS and Android application giving international travelers quick access to State Department information feeds",
+        "Designed and developed a prototype emergency management system using PhoneGap for single- source deployment to both Apple and Android devices",
+        "Lead a team that developed and delivered the Public Diplomacy Implementation Plan application to all U.S. Embassies around the globe via Microsoft Azure - including advanced technology from Expert AI providing Natural Language Analysis in summarizing implementation plans"
+      ]
+    },
+    {
+      "name": "LynxBridge",
+      "location": "Herndon, VA",
+      "description": "Government Information Technology",
+      "position": "Managing Principal",
+      "startDate": "2008-10",
+      "endDate": "2012-04",
+      "summary": "Founded a small fifteen-person consulting company focused on providing skilled consultants in both the public and private sectors. As the CEO, managed technical delivery, payroll, business development, corporate and financial compliance, and secured our GSA Schedule 70 contract.",
+      "highlights": [
+        "Enterprise software architect on the Blue Devil Block 2 program. This Intelligence, Surveillance, and Reconnaissance platform was a 350-foot airship with 2,000 pounds of intelligence equipment",
+        "Chief software architect for the Vigilant program, a Northrop Grumman effort providing a collaborative intelligence system for first responders and border security for North Africa",
+        "Principal engineer for various Northrop Grumman programs providing intelligence to the war fighter using mobile devices including iPhones and iPads. Provides geospatial intelligence with connectivity to back-end intelligence systems",
+        "Corporate leadership role as a technology evangelist designing, developing, and delivering enabling cloud and on-premises platforms for the Department of Defense, Department of State, and the Department of Justice"
+      ]
+    },
+    {
+      "name": "Wells Landers",
+      "location": "McLean, VA",
+      "description": "Government Information Technology",
+      "position": "Technology Fellow",
+      "startDate": "2005-10",
+      "endDate": "2008-09",
+      "summary": "Project lead supporting the Defense Common Ground Station for the Army (DCGS-A). Extensive and detailed programming experience integrating the DCGS metadata catalog in an enterprise-wide architecture. Created a Google Earth interface in Java to DCGS-A that displayed intelligence data on the Google Earth globe. This gave the war fighter an easy-to-navigate interface for searching and viewing signals intelligence, imagery, and IEDs."
+    },
+    {
+      "name": "RABA Technologies",
+      "location": "Colombia, MD",
+      "description": "National Security",
+      "position": "Chief Scientist",
+      "startDate": "1998",
+      "endDate": "2005",
+      "summary": "A consulting company that originally focused on the intelligence sector and then expanded into a variety of additional government and commercial areas. As a senior member of the staff, I had experience in both winning and executing on a number of projects for our Maryland customer."
+    },
+    {
+      "name": "Boeing Defense and Space Group",
+      "location": "Hanover, MD",
+      "description": "Aerospace",
+      "position": "Senior Software Engineer",
+      "startDate": "1993",
+      "endDate": "1997",
+      "summary": "Most of my time with the Boeing Defense and Space Group was spent working on the Enhanced Tactical RAdar Correlator (ETRAC) ground station for the U-2 high-altitude reconnaissance aircraft. The ETRAC system provides commanders with imagery-based battlefield intelligence derived from the Advanced Synthetic Aperture Radar System-2 (ASARS-2) radar sensor carried on board the U-2 aircraft."
+    },
+    {
+      "name": "GTE Government Systems",
+      "location": "Rockville, MD",
+      "description": "National Security",
+      "position": "Software Engineer",
+      "startDate": "1989",
+      "endDate": "1993",
+      "summary": "GTE Government Systems supplied the intelligence community with complete systems and consulting. Developed several systems and applications for our Maryland and Virginia customers."
+    },
+    {
+      "name": "BiiN Federal Systems",
+      "location": "McLean, VA",
+      "description": "Fault Tolerant Computing",
+      "position": "System Engineer",
+      "startDate": "1989",
+      "endDate": "1989",
+      "summary": "BiiN was a short-lived joint venture between Intel and Siemens to develop fault-tolerant computers. As a pre-sales engineer, my job was to evaluate and respond to proposals and determine how the company’s products could best serve the customer’s needs. They closed in October 1989."
+    },
+    {
+      "name": "U.S. Army",
+      "location": "Fort Meade, MD",
+      "description": "National Defense",
+      "position": "Signal Corps Officer",
+      "startDate": "1985",
+      "endDate": "1989",
+      "summary": "Program manager of the Secure Battle Management Processor program in support of the Strategic Defense Initiative (SDI). This was a strategic program for the nation as its promise of detecting and destroying incoming ballistic missiles was one of the factors causing the Soviet Union to over- spend on defense and was a contributing factor to that country’s eventual collapse. I specialized in secure battle-management computers.",
+      "highlights": [
+        "Member of the Government source selection committee for the National Test Bed, a $500M effort for proving SDI hardware and software"
+      ]
+    },
+    {
+      "name": "Northeastern University",
+      "location": "Boston, MA",
+      "description": "Higher Education",
+      "position": "Co-Op Student",
+      "startDate": "1980",
+      "endDate": "1985",
+      "summary": "Worked for various technology companies in the greater Boston area. Work included developing embedded microprocessor-based test equipment, engineering the transmitter logic for an anti- aircraft missile system (RADAMS), and designing equipment for measuring drift between atomic frequency standards such as those used for GPS."
     }
   ],
   "education": [
     {
       "institution": "Northeastern University",
       "area": "Electrical Engineering",
-      "studyType": "BSEE"
+      "studyType": "Bachelor of Science",
+      "startDate": "1980-09",
+      "endDate": "1985-06"
     },
     {
-      "institution": "The Johns Hopkins University",
+      "institution": "Johns Hopkins University, Baltimore, MD",
       "area": "Computer Science",
-      "studyType": "MSCS"
+      "studyType": "Master of Science",
+      "startDate": "1992-05",
+      "endDate": "1994-05"
     }
   ],
   "interests": [
     {
-      "name": "Aviation"
+      "name": "Aviation",
+      "keywords": ["Commercial/Instrument", "Fixed Wing", "Over 1,500 hours"]
+    },
+    {
+      "name": "Firearms",
+      "keywords": ["AR-15 Platform", "Ruger", "Glock"]
+    },
+    {
+      "name": "Hiking ",
+      "keywords": ["Shenandoah", "Burk Lake", "Fountainhead"]
     }
   ]
 }
