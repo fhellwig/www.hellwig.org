@@ -1,0 +1,19 @@
+html {
+  height: 100%;
+}
+
+body {
+  margin: 0;
+  height: 100%;
+  overflow: hidden;
+}
+
+body::-webkit-scrollbar {
+  display: none;
+}
+
+#root {
+  display: flex;
+  flex-flow: column nowrap;
+  height: 100%;
+}

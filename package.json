@@ -1,0 +1,40 @@
+{
+  "name": "websites",
+  "version": "1.0.0",
+  "description": "The www.hellwig.org website",
+  "type": "module",
+  "scripts": {
+    "prebuild": "rimraf .parcel-cache dist",
+    "build": "parcel build public/index.html",
+    "clean": "rimraf .parcel-cache dist",
+    "start": "parcel public/index.html",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "staticFiles": {
+    "staticPath": "static",
+    "staticOutPath": "static"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/fhellwig/www.hellwig.org.git"
+  },
+  "keywords": [
+    "website"
+  ],
+  "author": "Frank Hellwig",
+  "license": "UNLICENSED",
+  "dependencies": {
+    "bulma": "^0.9.4",
+    "parcel": "^2.6.2",
+    "parcel-reporter-static-files-copy": "^1.3.4",
+    "react": "^18.2.0",
+    "react-dom": "^18.2.0",
+    "react-markdown": "^8.0.3",
+    "react-router-dom": "^6.3.0",
+    "rimraf": "^3.0.2",
+    "styled-components": "^5.3.5"
+  },
+  "devDependencies": {
+    "process": "^0.11.10"
+  }
+}
