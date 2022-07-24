@@ -1,5 +1,5 @@
 {
-  "meta": { "theme": "caffeine" },
+  "meta": { "theme": "elegant" },
   "basics": {
     "name": "Frank Hellwig",
     "picture": "https://www.hellwig.org/static/frank-hellwig.profile.jpg",
@@ -213,36 +213,78 @@
       "location": "McLean, VA",
       "description": "Government Information Technology",
       "position": "Technology Fellow",
-      "startDate": "2005-10",
+      "startDate": "2005-03",
       "endDate": "2008-09",
-      "summary": "Project lead supporting the Defense Common Ground Station for the Army (DCGS-A). Extensive and detailed programming experience integrating the DCGS metadata catalog in an enterprise-wide architecture. Created a Google Earth interface in Java to DCGS-A that displayed intelligence data on the Google Earth globe. This gave the war fighter an easy-to-navigate interface for searching and viewing signals intelligence, imagery, and IEDs."
+      "summary": "Project lead supporting the Defense Common Ground Station for the Army (DCGS-A). Extensive and detailed programming experience integrating the DCGS metadata catalog in an enterprise-wide architecture. Created a Google Earth interface in Java to DCGS-A that displayed intelligence data on the Google Earth globe. This gave the war fighter an easy-to-navigate interface for searching and viewing signals intelligence, imagery, and IEDs.",
+      "verbose": {
+        "overview": "Consultant to Northrop Grumman Electronic Systems in Linthicum, MD. Principal engineer for the following IRAD efforts:",
+        "highlights": [
+          "Leverage Web 2.0 technology and syndication along with Ericsson mobile technology to bring intelligence data to the warfighter via ad hoc mobile networks using off-the-shelf devices.",
+          "Create a global VPN-based lab for both Northrop Grumman users and external partners. Used Cisco Adaptive Security Appliance to create both the VPN and internal networks. Effort required firm understanding of network concepts in a large enterprise.",
+          "Installed Maven component repositories using Archiva, Artifactory, and Nexus. Championed corporate adoption of component-ware and component-based builds centered around Maven and Maven repository managers. Not so much a technical challenge as a cultural shift.",
+          "As software lead, created the development environment for the Advanced Projects Group by introducing Subversion for configuration management, Dokuwiki for collaboration, MyDMS for document management, Eclipse and Maven for software development.",
+          "Contractual efforts focused on the Defense Common Ground Station (DCGS) and the DCGS Integration Backbone (DIB). Lead an IRAD task to create an open-source governance and implementation model of the DIB metadata catalog based on the DoD Discovery Metadata Standard (DDMS).",
+          "Led a task to render intelligence reconnaissance and surveillance metadata and data on Google Earth via KML and content feeds giving the warfighter a familiar and easy to navigate interface for searching and viewing IMINT, SIGINT, and other data types. Also experimented with ontology-based reasoning tools to derive new facts from known collected data and alert users to possible threats."
+        ]
+      }
     },
     {
       "name": "RABA Technologies",
       "location": "Colombia, MD",
       "description": "National Security",
       "position": "Chief Scientist",
-      "startDate": "1998",
-      "endDate": "2005",
-      "summary": "A consulting company that originally focused on the intelligence sector and then expanded into a variety of additional government and commercial areas. As a senior member of the staff, I had experience in both winning and executing on a number of projects for our Maryland customer."
+      "startDate": "1997-11",
+      "endDate": "2005-03",
+      "summary": "A consulting company that originally focused on the intelligence sector and then expanded into a variety of additional government and commercial areas. As a senior member of the staff, I had experience in both winning and executing on a number of projects for our Maryland customer.",
+      "highlightsxx": [
+        "Technical capture leader and technical volume lead winning a $100M intelligence contract. Partnered with Lockheed Martin, SAIC, General Dynamics, and others to create national intelligence solutions. Designed, developed, and delivered tailored access solutions for remotely networked systems. These included custom network protocol development and network firewall applications.",
+
+        "Internal consultant to agency wide J2EE projects. Provided mentoring, design guidance, and software development expertise to over thirty projects using BEA's WebLogic Server and Portal. Provided in-depth analysis of design patterns and researched development tools and methodologies.",
+
+        "Developed an OC-12 and OC-48 network analysis system consisting of a Linux device driver to capture packets, a flows parser to extract the flows and store them in a database, and a Web application to query and graphically display the information.",
+
+        "Developed device drivers in C running on VxWorks for the Intel IXP1200 network processor. The product was a router supporting gigabit Ethernet, Fibre Channel, and T3.",
+
+        "Other projects: Web-based point of sale application, Two-day turnaround for a Raytheon bug in their satellite management software, Web-based performance monitoring tools, ported the Common Imagery Processor (CIP) to an eight processor SPARC system, developed a multilingual (English, Japanese) e-commerce site, developed device drivers to process SBIRS satellite telemetry, designed and developed a multimedia management system for video, voice, and text data."
+      ],
+      "verbose": {
+        "overview": "Embedded Network Software",
+        "highlights": [
+          "High-Speed Network Analysis System (R531) - Developed an OC-12 and OC-48 ATM and POS network analysis package consisting of a Linux device drivers to capture packets, a flows parser to extract sessions and store them in a database, and a complete Web-based application to query and graphically display the information.",
+
+          "High-Speed Multi-protocol Router (Entrada Networks, Inc.) - Developed device drivers and routing software for the Silverline router, a gigabit Ethernet, fibre channel, and T3 router for high speed SAN's. Utilized the Intel IXP1200 network processor running VxWorks. Wrote the routing software, telnet daemon, and gigabit Ethernet driver.",
+
+          "Satellite Telemetry Processing (TSI TelSys, Inc.) - Developed device drivers to process satellite telemetry of spacecraft data in SGI Origin 200 systems hosting a series of custom (FPGA) PCI cards."
+        ]
+      }
     },
     {
       "name": "Boeing Defense and Space Group",
       "location": "Hanover, MD",
-      "description": "Aerospace",
+      "description": "Aerospace and Defense Industry",
       "position": "Senior Software Engineer",
-      "startDate": "1993",
-      "endDate": "1997",
-      "summary": "Most of my time with the Boeing Defense and Space Group was spent working on the Enhanced Tactical RAdar Correlator (ETRAC) ground station for the U-2 high-altitude reconnaissance aircraft. The ETRAC system provides commanders with imagery-based battlefield intelligence derived from the Advanced Synthetic Aperture Radar System-2 (ASARS-2) radar sensor carried on board the U-2 aircraft."
+      "startDate": "1993-01",
+      "endDate": "1997-11",
+      "summary": "The Hanover office of the Boeing Defense and Space Group supported the Enhanced Tactical RAdar Correlator (ETRAC) ground station for the U-2 high-altitude reconnaissance aircraft. The ETRAC system provided commanders with imagery-based battlefield intelligence derived from the Advanced Synthetic Aperture Radar System-2 (ASARS-2) radar sensor carried on board the U-2 aircraft.",
+      "highlights": [
+        "Lead the team designing and developing the ETRAC Mission Planning System. This was a sophisticated graphical route and collection planning system using C and native X Window drawing primitives.",
+        "Developed the communications software for the ETRAC system. The communication system (in C) sent and received messages via a Communication System Processor (CSP) and images via a NITF Communications Interface Unit (NCIU).",
+        "Researched various approaches to mission planning for the TIER programs. Authored a trade study examining the applicability of the Air Force Mission Support System (AFMSS) for UAV missions."
+      ]
     },
     {
       "name": "GTE Government Systems",
       "location": "Rockville, MD",
       "description": "National Security",
       "position": "Software Engineer",
-      "startDate": "1989",
-      "endDate": "1993",
-      "summary": "GTE Government Systems supplied the intelligence community with complete systems and consulting. Developed several systems and applications for our Maryland and Virginia customers."
+      "startDate": "1989-11",
+      "endDate": "1993-01",
+      "summary": "GTE Government Systems supplied the intelligence community with complete systems and consulting. Developed several systems and applications for our Maryland and Virginia customers.",
+      "highlights": [
+        "Developed applications to support Virginia intelligence agency operations. Applications were written in C and C++ for a large network of Microsoft Windows based PC's and included network communications.",
+        "Developed an X/Motif applications for Fax and telephony (SS7) analysis systems.",
+        "Minstrel/Alterstone software engineer designing real-time software for voice processing systems hosted on a 68020 VME system using the OS-9 operating system."
+      ]
     },
     {
       "name": "BiiN Federal Systems",
@@ -251,28 +293,49 @@
       "position": "System Engineer",
       "startDate": "1989-07",
       "endDate": "1989-10",
-      "summary": "BiiN was a short-lived joint venture between Intel and Siemens to develop fault-tolerant computers. As a pre-sales engineer, my job was to evaluate and respond to proposals and determine how the company’s products could best serve the customer’s needs. They closed in October 1989."
+      "summary": "BiiN was a short-lived joint venture between Intel and Siemens to develop fault-tolerant computers. As a pre-sales engineer, my job was to evaluate and respond to proposals and determine how the company’s products could best serve the customer’s needs. They closed in October 1989.",
+      "highlights": [
+        "Responsible for federal applications of BiiN mission critical computer systems. Extensive customer interchange including briefings and demonstrations. Additional responsibilities were the operation of internal computer systems and Ada software development for multiprocessing performance analysis."
+      ]
     },
     {
       "name": "U.S. Army",
       "location": "Fort Meade, MD",
       "description": "National Defense",
       "position": "Signal Corps Officer",
-      "startDate": "1985",
-      "endDate": "1989",
-      "summary": "Program manager of the Secure Battle Management Processor program in support of the Strategic Defense Initiative (SDI). This was a strategic program for the nation as its promise of detecting and destroying incoming ballistic missiles was one of the factors causing the Soviet Union to over- spend on defense and was a contributing factor to that country’s eventual collapse. I specialized in secure battle-management computers.",
+      "startDate": "1985-06",
+      "endDate": "1989-06",
+      "summary": "Commissioned as a U.S. Army officer after completing the ROTC program at Northeastern University. My tour of duty was spent at Fort Meade and related National Security installations. Much of my work was supporting the Strategic Defense Initiative (SDI), a national program for detecting and destroying incoming ballistic missiles.",
       "highlights": [
-        "Member of the Government source selection committee for the National Test Bed, a $500M effort for proving SDI hardware and software"
+        "Managed the Secure Battle Management Processor program in support of the Strategic Defense Initiative (SDI). Evaluated secure and fault tolerant computers for battle management applications. Responsible for all technical aspects of the contractual effort: writing the Statement of Work, creating a data requirements list, and briefing the program to the SDI Organization program office.",
+        "Member of the National Test Bed Source Selection Advisory Board evaluating proposals for the National Test Bed Integration Contract. The National Test Bed was a $500M program for proving SDI hardware and software.",
+        "Developed a triple DES file encryption program for the IBM PC written entirely in assembly language."
       ]
     },
     {
-      "name": "Northeastern University",
-      "location": "Boston, MA",
-      "description": "Higher Education",
+      "name": "M/A-COM",
+      "location": "Burlington, MA",
+      "description": "Microwave Products",
+      "position": "Digital Design Engineer",
+      "startDate": "1983-01",
+      "endDate": "1985-12",
+      "summary": "Self-employed consultant supporting automated testing and defense products at M/A-COM.",
+      "highlights": [
+        "Designed and provided engineering support on a variety of automated component test equipment. Major accomplishment was the implementation of an embedded microprocessor system for microcomputers to control custom automatic test equipment via the IEEE-488 bus.",
+        "Designed the seeker transmitter logic of the Rapidly Deployable Anti-aircraft Missile System (RADAMS) transmitter. Components included switching power supply logic, microwave magnetron control logic, and built-in test equipment to provide an integrated system for both evaluation and operational phases. Designed programmable array logic."
+      ]
+    },
+    {
+      "name": "Frequency and Time Systems",
+      "location": "Beverly, MA",
+      "description": "Frequency and Time Standards",
       "position": "Co-Op Student",
-      "startDate": "1980",
-      "endDate": "1985",
-      "summary": "Worked for various technology companies in the greater Boston area. Work included developing embedded microprocessor-based test equipment, engineering the transmitter logic for an anti- aircraft missile system (RADAMS), and designing equipment for measuring drift between atomic frequency standards such as those used for GPS."
+      "startDate": "1981-06",
+      "endDate": "1982-12",
+      "summary": "As part of Northeastern University's Co-Op program, I worked for a company that produced, among other products, Cesium beam frequency standards including GPS space-based clocks.",
+      "highlights": [
+        "Developed two products: a phase comparator for measuring drift between atomic frequency standards and a phase noise measurement system. The phase comparator included printed circuit board design."
+      ]
     }
   ],
   "projects": [
