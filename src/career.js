@@ -129,6 +129,38 @@ export function Career() {
           </div>
         </div>
       </div>
+      <div className="columns">
+        <div className="column">
+          <div className="panel">
+            <div className="panel-heading">Fun Facts</div>
+            <div className="panel-block">
+              <div className="content">
+                <p>
+                  This website is written using the{' '}
+                  <a href="https://reactjs.org/">React</a> JavaScript framework
+                  and the <a href="https://bulma.io">Bulma</a> CSS framework. It
+                  is hosted on a{' '}
+                  <a href="https://www.linode.com">Linux server</a>
+                  running <a href="https://www.nginx.com">NGINX</a>. The source
+                  code is available on my{' '}
+                  <a href="https://github.com/fhellwig/www.hellwig.org">
+                    GitHub site
+                  </a>
+                  . The publication pages are all written in{' '}
+                  <a href="https://daringfireball.net/projects/markdown/syntax">
+                    Markdown
+                  </a>{' '}
+                  and are hosted on a different{' '}
+                  <a href="https://github.com/fhellwig/publications">
+                    GitHub site
+                  </a>
+                  .
+                </p>
+              </div>
+            </div>
+          </div>
+        </div>
+      </div>
     </div>
   );
 }
