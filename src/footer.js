@@ -1,18 +1,8 @@
-import styled from 'styled-components';
 import trust from './positivessl.png';
-
-const StyledFooter = styled.footer`
-  color: white;
-  padding: 1rem;
-  background-color: #333;
-  a {
-    color: yellow;
-  }
-`;
 
 export function Footer() {
   return (
-    <StyledFooter>
+    <footer id="footer">
       <div className="columns is-vcentered">
         <div className="column has-text-centered">
           Please contact me via <a href="tel:5712076308">phone</a> or{' '}
@@ -23,6 +13,6 @@ export function Footer() {
           <img src={trust} />
         </div>
       </div>
-    </StyledFooter>
+    </footer>
   );
 }

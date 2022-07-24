@@ -17,3 +17,28 @@ body::-webkit-scrollbar {
   flex-flow: column nowrap;
   height: 100%;
 }
+
+#header {
+  height: 70px;
+  line-height: 70px;
+  text-align: center;
+  font-size: 2em;
+  color: white;
+  background-color: cornflowerblue;
+}
+
+#main {
+  flex: 1;
+  overflow-y: auto;
+  padding: 1.5rem;
+}
+
+#footer {
+  padding: 1rem;
+  color: white;
+  background-color: #333;
+}
+
+#footer a {
+  color: yellow;
+}
