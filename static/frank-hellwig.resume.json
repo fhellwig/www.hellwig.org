@@ -74,10 +74,6 @@
       ]
     },
     {
-      "name": "Security",
-      "keywords": ["Blockchain", "Common Access Card", "PKI", "RSA", "AES"]
-    },
-    {
       "name": "Interoperability",
       "keywords": [
         "REST",
@@ -88,18 +84,6 @@
         "XSLT",
         "SOAP",
         "AJAX"
-      ]
-    },
-    {
-      "name": "Back End",
-      "keywords": [
-        "Node.js",
-        "Express",
-        "Java",
-        "Python",
-        "C",
-        "ASP.NET MVC",
-        "PHP"
       ]
     },
     {
@@ -127,6 +111,10 @@
         "JavaScript",
         "X11"
       ]
+    },
+    {
+      "name": "Security",
+      "keywords": ["Blockchain", "Common Access Card", "PKI", "RSA", "AES"]
     },
     {
       "name": "Infrastructure",
@@ -285,6 +273,36 @@
       "startDate": "1980",
       "endDate": "1985",
       "summary": "Worked for various technology companies in the greater Boston area. Work included developing embedded microprocessor-based test equipment, engineering the transmitter logic for an anti- aircraft missile system (RADAMS), and designing equipment for measuring drift between atomic frequency standards such as those used for GPS."
+    }
+  ],
+  "projects": [
+    {
+      "name": "IO Careers",
+      "description": "A site for U.S. Department of State jobs",
+      "highlights": [
+        "This was the first cloud project for the Department of State"
+      ],
+      "url": "https://iocareers.state.gov"
+    },
+    {
+      "name": "Smart Traveler",
+      "description": "Mobile app to help U.S. travelers to foreign countries",
+      "highlights": [
+        "I developed the original version for the Apple App Store and Google Play"
+      ],
+      "url": "https://apps.apple.com/us/app/smart-traveler/id442693988"
+    },
+    {
+      "name": "EM1",
+      "description": "A prototype Emergency Management System",
+      "highlights": ["We developed a mobile app and the backend system"],
+      "url": "https://www.youtube.com/watch?v=prE6sRjnR44"
+    },
+    {
+      "name": "VIGILANT",
+      "description": "A first responder system by Northrop Grumman",
+      "highlights": ["We developed this in Java using an XML database"],
+      "url": "https://www.youtube.com/watch?v=MjiNbuo1Mvk"
     }
   ],
   "education": [
