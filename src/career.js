@@ -42,12 +42,12 @@ export function Career() {
             <div className="panel-heading">Important Links</div>
             <div className="panel-block">
               <div className="content">
-                <p style={{ textAlign: 'center' }}>
+                <p>
                   <a href="https://registry.jsonresume.org/fhellwig">
                     My Resume
                   </a>
                 </p>
-                <p style={{ textAlign: 'center' }}>
+                <p>
                   <a href="./pubs">My Publications</a>
                 </p>
               </div>
