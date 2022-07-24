@@ -140,13 +140,13 @@ export function Career() {
                   <a href="https://reactjs.org/">React</a> JavaScript framework
                   and the <a href="https://bulma.io">Bulma</a> CSS framework. It
                   is hosted on a{' '}
-                  <a href="https://www.linode.com">Linux server</a>
-                  running <a href="https://www.nginx.com">NGINX</a>. The source
-                  code is available on my{' '}
+                  <a href="https://www.linode.com">Linux server</a> running{' '}
+                  <a href="https://www.nginx.com">NGINX</a>. The source code is
+                  available on my{' '}
                   <a href="https://github.com/fhellwig/www.hellwig.org">
                     GitHub site
                   </a>
-                  . The publication pages are all written in{' '}
+                  . The publications are all written in{' '}
                   <a href="https://daringfireball.net/projects/markdown/syntax">
                     Markdown
                   </a>{' '}
