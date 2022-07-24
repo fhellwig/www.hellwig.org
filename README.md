@@ -1,6 +1,6 @@
 # www.hellwig.org
 
-This is the www.hellwig.org website.
+This is the www.hellwig.org website
 
 ## Prerequisites
 
