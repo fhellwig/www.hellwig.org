@@ -1,0 +1,49 @@
+{
+  "meta": { "theme": "caffeine" },
+  "basics": {
+    "name": "Frank Hellwig",
+    "picture": "https://www.hellwig.org/static/frank-hellwig.profile.jpg",
+    "label": "Solution Architect",
+    "email": "frank@hellwig.org",
+    "phone": "(571) 207-6308",
+    "url": "https://www.hellwig.org",
+    "summary": "See website",
+    "location": {
+      "address": "3071 Joy Ct",
+      "city": "Warrenton",
+      "region": "VA",
+      "postalCode": "20187"
+    },
+    "profiles": [
+      {
+        "network": "GitHub",
+        "username": "fhellwig",
+        "url": "https://github.com/fhellwig"
+      }
+    ]
+  },
+  "work": [
+    {
+      "name": "GovCIO",
+      "position": "Vice President",
+      "startDate": "2020-07-18"
+    }
+  ],
+  "education": [
+    {
+      "institution": "Northeastern University",
+      "area": "Electrical Engineering",
+      "studyType": "BSEE"
+    },
+    {
+      "institution": "The Johns Hopkins University",
+      "area": "Computer Science",
+      "studyType": "MSCS"
+    }
+  ],
+  "interests": [
+    {
+      "name": "Aviation"
+    }
+  ]
+}
