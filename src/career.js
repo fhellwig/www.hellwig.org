@@ -43,8 +43,13 @@ export function Career() {
             <div className="panel-block">
               <div className="content">
                 <p>
-                  <a href="https://registry.jsonresume.org/fhellwig">
+                  <a href="https://registry.jsonresume.org/fhellwig?theme=autumn">
                     My Resume
+                  </a>
+                </p>
+                <p>
+                  <a href="https://registry.jsonresume.org/fhellwig">
+                    My Resume (with photo)
                   </a>
                 </p>
                 <p>
@@ -153,6 +158,12 @@ export function Career() {
                   and are hosted on a different{' '}
                   <a href="https://github.com/fhellwig/publications">
                     GitHub site
+                  </a>
+                  . My resume is written using the{' '}
+                  <a href="https://jsonresume.org">JSON Resume</a> format, which
+                  allows me to have two completely different themes from one{' '}
+                  <a href="https://www.hellwig.org/static/frank-hellwig.resume.json">
+                    source file
                   </a>
                   .
                 </p>
