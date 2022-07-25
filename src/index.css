@@ -18,7 +18,7 @@ body::-webkit-scrollbar {
   height: 100%;
 }
 
-#header {
+#root > header {
   height: 70px;
   line-height: 70px;
   text-align: center;
@@ -27,18 +27,18 @@ body::-webkit-scrollbar {
   background-color: cornflowerblue;
 }
 
-#main {
+#root > main {
   flex: 1;
   overflow-y: auto;
   padding: 1.5rem;
 }
 
-#footer {
+#root > footer {
   padding: 1rem;
   color: white;
   background-color: #333;
 }
 
-#footer a {
+#root > footer a {
   color: yellow;
 }

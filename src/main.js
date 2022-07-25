@@ -4,7 +4,7 @@ import { Publications } from './publications.js';
 
 export function Main({ onThemeChange }) {
   return (
-    <main id="main">
+    <main>
       <BrowserRouter>
         <Routes>
           <Route path="/" element={<Career />} />

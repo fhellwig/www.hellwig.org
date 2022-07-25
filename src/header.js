@@ -1,6 +1,6 @@
 export function Header() {
   return (
-    <header id="header">
+    <header>
       <h1>
         <span>Frank&nbsp;Hellwig</span>
       </h1>

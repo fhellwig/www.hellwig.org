@@ -2,7 +2,7 @@ import trust from './positivessl.png';
 
 export function Footer() {
   return (
-    <footer id="footer">
+    <footer>
       <div className="columns is-vcentered">
         <div className="column has-text-centered">
           Please contact me via <a href="tel:5712076308">phone</a> or{' '}
