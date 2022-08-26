@@ -39,7 +39,7 @@ export function Career() {
         </div>
         <div className="column">
           <div className="panel">
-            <div className="panel-heading">Important Links</div>
+            <div className="panel-heading">Resume and Publications</div>
             <div className="panel-block">
               <div className="content">
                 <p>
@@ -52,8 +52,32 @@ export function Career() {
                     My Resume (with photo)
                   </a>
                 </p>
+                <hr />
                 <p>
-                  <a href="./pubs">My Publications</a>
+                  <a href="https://drive.google.com/file/d/1-0P8yxdEZ59GP4oN0rHqVcMRyC4Zu9AO/view?usp=sharing">
+                    A Secure SDS Software Library
+                  </a>
+                </p>
+                <p>
+                  <a href="https://drive.google.com/file/d/10Kf3mVxanL2vpV5Lc2xA5k5m8sj9sa9n/view?usp=sharing">
+                    Implementing Associations
+                  </a>
+                </p>
+                <p>
+                  <a href="https://drive.google.com/file/d/1-1RpO99Q0j8tGeovKxGUO70f9CFxjbHv/view?usp=sharing">
+                    Five Reasons to Move Your Line-of-Business Applications to
+                    the Cloud
+                  </a>
+                </p>
+                <p>
+                  <a href="https://drive.google.com/file/d/10N259NsE1ZRjwOGnbsjVb2MIOIvM0oyf/view?usp=sharing">
+                    Security Considerations for DoD Cloud Migrations
+                  </a>
+                </p>
+                <p>
+                  <a href="https://drive.google.com/file/d/1-16M6bl8K77gNBvRfylZdgA9bPa4EgAS/view?usp=sharing">
+                    Cloud Migrations &mdash; Lessons Learned
+                  </a>
                 </p>
               </div>
             </div>
