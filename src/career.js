@@ -159,6 +159,11 @@ export function Career() {
             <div className="panel-block">
               <div className="content">
                 <p>
+                  Eventhough I spend my time writing proposals and winning
+                  business, I am still a full-stack developer and cloud
+                  evangelist. I enjoy the art of computer programming.
+                </p>
+                <p>
                   I am a commercial, instrument-rated pilot with over 1,500
                   hours. I own a Cirrus SR20 that I keep at KHEF. In my spare
                   time, I enjoy flying with my wonderful wife, riding my
