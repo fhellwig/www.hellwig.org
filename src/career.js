@@ -45,11 +45,12 @@ export function Career() {
                 <ul>
                   <li>
                     <a href="https://registry.jsonresume.org/fhellwig?theme=autumn">
-                      My Resume
+                      My Resume (Autumn theme)
                     </a>
-                    <li></li>
-                    <a href="https://registry.jsonresume.org/fhellwig">
-                      My Resume (with photo)
+                  </li>
+                  <li>
+                    <a href="https://registry.jsonresume.org/fhellwig?theme=elegant">
+                      My Resume (Elegant theme)
                     </a>
                   </li>
                 </ul>
