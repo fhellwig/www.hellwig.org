@@ -159,7 +159,7 @@ export function Career() {
             <div className="panel-block">
               <div className="content">
                 <p>
-                  Eventhough I spend my time writing proposals and winning
+                  Although I spend my time writing proposals and winning
                   business, I am still a full-stack developer and cloud
                   evangelist. I enjoy the art of computer programming.
                 </p>
