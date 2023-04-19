@@ -31,7 +31,7 @@ export function Career() {
             <div className="panel-block">
               <p>
                 Over the past year, I have been the principal SA on bids
-                totaling $1.6B TCV of single-award, prime contracts with U.S.
+                totaling $1.3B TCV of single-award, prime contracts with U.S.
                 Federal Departments and Agencies.
               </p>
             </div>
