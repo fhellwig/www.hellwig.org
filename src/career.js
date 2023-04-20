@@ -44,8 +44,8 @@ export function Career() {
               <div className="content">
                 <ul>
                   <li>
-                    <a href="https://registry.jsonresume.org/fhellwig?theme=autumn">
-                      My Resume (Autumn theme)
+                    <a href="https://registry.jsonresume.org/fhellwig?theme=onepage">
+                      My Resume (OnePage theme)
                     </a>
                   </li>
                   <li>
