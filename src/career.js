@@ -165,7 +165,7 @@ export function Career() {
                 </p>
                 <p>
                   I am a commercial, instrument-rated pilot with over 1,500
-                  hours. I own a Cirrus SR20 that I keep at KHEF. In my spare
+                  hours. In my spare
                   time, I enjoy flying with my wonderful wife, driving my Challenger R/T, and riding my Honda Shadow Phantom.
                 </p>
               </div>
