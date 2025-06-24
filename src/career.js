@@ -30,7 +30,7 @@ export function Career() {
             <div className="panel-heading">Recent Highlights</div>
             <div className="panel-block">
               <p>
-                Over the past year, I have been the principal SA on bids
+                In my time at GovCIO, I have been the principal SA on bids
                 totaling $1.3B TCV of single-award, prime contracts with U.S.
                 Federal Departments and Agencies.
               </p>
@@ -160,13 +160,13 @@ export function Career() {
               <div className="content">
                 <p>
                   Although I spend my time writing proposals and winning
-                  business, I am still a full-stack developer and cloud
-                  evangelist. I enjoy the art of computer programming.
+                  business, I remain technical by keeping my interest in full-stack development and cloud
+                  architecture. I enjoy the art of computer programming.
                 </p>
                 <p>
                   I am a commercial, instrument-rated pilot with over 1,500
                   hours. In my spare
-                  time, I enjoy flying with my wonderful wife, driving my Challenger R/T, and riding my Honda Shadow Phantom.
+                  time, I enjoy driving my Challenger R/T, and riding my Honda Shadow Phantom.
                 </p>
               </div>
             </div>
